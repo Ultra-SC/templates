@@ -1,0 +1,7 @@
+:root { --global_main_color: #e84545; --global_main_color_btn_text_color: #ffffff; --home_text_color: #ffffff; --home_third_background_color: #000000; --home_custom_image_size: 400px; --home_text_size_px: 70px; --home_text_size_2_px: 45px; --slogan_text_size_px: 27px; --home_text_size: 70; --home_text_size_2: 45; --slogan_text_size: 27; --home_text_size_px_media: 70px; --home_text_size_2_px_media: 45px; --slogan_text_size_px_media: 27px; --layout_text_align: center; --layout_text_align_rtl: center; --layout_text_box_width: 100%; --layout_left_side_width: 50%; --layout_left_side_width_vh: 50vh; --homepage_layout_height: 100%; --homepage_layout_height_vh: 100vh; --homepage_layout_height_menu_space: 0px; --mainNavMobileHeight: 0px; --homepage_layout_height_opacity_space_top: 0px; --homepage_layout_height_opacity_space_bottom: 0px; --mobileMenuFontSize: 21px; --mobileMenuPagesSpace: 5px; --homepageShapeDividerList_Size: 17%; --homepage_goal_space: 0px; --homepage_second_goal_space: 20px; --layout_bottom_spacing: 0px; --window-height: 100vh; --window-width: 100vw; --menu_font_size: 14px; --menu_pages_space: 5px; --menu_pages_side_padding: 15px; --menu_pages_letter_spacing: 1px; --menu_pages_word_spacing: 0px; --menu_thin_border: #2b2e4a; --mobileMenuTextAlign: center; --menu_text_color: #ffffff; --menu_color: #2b2e4a; --modules_color_text: #000000; --inside_modules_color_text: #000000;
+}
+
+    ::selection {
+      color: #242222;
+      background: none;
+    }
